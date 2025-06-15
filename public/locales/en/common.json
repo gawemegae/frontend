@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "videos": "Videos",
+    "live": "Live Sessions",
+    "schedules": "Scheduled",
+    "inactive": "Inactive",
+    "youtube": "YouTube Automation"
+  },
+  "header": {
+    "trial_mode": "TRIAL MODE - Data resets every 2 hours!",
+    "theme_toggle": "Toggle theme",
+    "language": "Language"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "live_sessions": "Live Sessions",
+    "scheduled_onetime": "Scheduled (One-time)",
+    "scheduled_daily": "Scheduled (Daily)",
+    "inactive_sessions": "Inactive Sessions",
+    "video_count": "Videos",
+    "disk_usage": "Disk Usage",
+    "total": "Total",
+    "used": "Used",
+    "free": "Free"
+  },
+  "videos": {
+    "title": "Videos",
+    "download_from_gdrive": "Download from Google Drive",
+    "gdrive_url": "Google Drive URL or File ID",
+    "download": "Download",
+    "delete_all": "Delete All Videos",
+    "preview": "Preview",
+    "rename": "Rename",
+    "delete": "Delete",
+    "confirm_delete_all": "Are you sure you want to delete all videos?",
+    "confirm_delete": "Are you sure you want to delete this video?",
+    "rename_video": "Rename Video",
+    "new_filename": "New filename"
+  },
+  "live": {
+    "title": "Live Sessions",
+    "start_manual": "Start Manual Live",
+    "schedule_new": "Schedule New Live",
+    "session_name": "Session Name",
+    "video_file": "Video File",
+    "platform": "Platform",
+    "stream_key": "Stream Key",
+    "type": "Type",
+    "start_time": "Start Time",
+    "stop_time": "Stop Time",
+    "stop": "Stop",
+    "confirm_stop": "Are you sure you want to stop this live session?"
+  },
+  "schedules": {
+    "title": "Scheduled Sessions",
+    "cancel": "Cancel Schedule",
+    "confirm_cancel": "Are you sure you want to cancel this scheduled session?"
+  },
+  "inactive": {
+    "title": "Inactive Sessions",
+    "delete_all": "Delete All Inactive",
+    "reactivate": "Reactivate Now",
+    "edit_reschedule": "Edit / Reschedule",
+    "confirm_delete_all": "Are you sure you want to delete all inactive sessions?"
+  },
+  "youtube": {
+    "title": "YouTube Automation",
+    "status": "Status",
+    "connected": "Connected to",
+    "not_connected": "Not Connected",
+    "connect": "Connect to YouTube",
+    "disconnect": "Disconnect",
+    "enable_automation": "Enable Daily Automation",
+    "schedule_time": "Schedule Time",
+    "title_template": "Title Template",
+    "description_template": "Description Template",
+    "video_selection": "Video Selection Mode",
+    "privacy_status": "Privacy Status",
+    "save_config": "Save Configuration"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "success": "Success",
+    "error": "Error",
+    "manual": "Manual",
+    "scheduled": "Scheduled",
+    "youtube": "YouTube",
+    "facebook": "Facebook",
+    "onetime": "One-time",
+    "daily": "Daily",
+    "sequential": "Sequential",
+    "random": "Random",
+    "public": "Public",
+    "private": "Private",
+    "unlisted": "Unlisted"
+  }
+}

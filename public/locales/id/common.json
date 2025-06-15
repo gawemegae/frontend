@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "dashboard": "Dasbor",
+    "videos": "Video",
+    "live": "Sesi Live",
+    "schedules": "Terjadwal",
+    "inactive": "Tidak Aktif",
+    "youtube": "Otomasi YouTube"
+  },
+  "header": {
+    "trial_mode": "MODE TRIAL - Data direset setiap 2 jam!",
+    "theme_toggle": "Ganti tema",
+    "language": "Bahasa"
+  },
+  "dashboard": {
+    "title": "Dasbor",
+    "live_sessions": "Sesi Live",
+    "scheduled_onetime": "Terjadwal (Sekali)",
+    "scheduled_daily": "Terjadwal (Harian)",
+    "inactive_sessions": "Sesi Tidak Aktif",
+    "video_count": "Video",
+    "disk_usage": "Penggunaan Disk",
+    "total": "Total",
+    "used": "Terpakai",
+    "free": "Tersedia"
+  },
+  "videos": {
+    "title": "Video",
+    "download_from_gdrive": "Unduh dari Google Drive",
+    "gdrive_url": "URL Google Drive atau ID File",
+    "download": "Unduh",
+    "delete_all": "Hapus Semua Video",
+    "preview": "Pratinjau",
+    "rename": "Ubah Nama",
+    "delete": "Hapus",
+    "confirm_delete_all": "Apakah Anda yakin ingin menghapus semua video?",
+    "confirm_delete": "Apakah Anda yakin ingin menghapus video ini?",
+    "rename_video": "Ubah Nama Video",
+    "new_filename": "Nama file baru"
+  },
+  "live": {
+    "title": "Sesi Live",
+    "start_manual": "Mulai Live Manual",
+    "schedule_new": "Jadwalkan Live Baru",
+    "session_name": "Nama Sesi",
+    "video_file": "File Video",
+    "platform": "Platform",
+    "stream_key": "Stream Key",
+    "type": "Tipe",
+    "start_time": "Waktu Mulai",
+    "stop_time": "Waktu Berhenti",
+    "stop": "Berhenti",
+    "confirm_stop": "Apakah Anda yakin ingin menghentikan sesi live ini?"
+  },
+  "schedules": {
+    "title": "Sesi Terjadwal",
+    "cancel": "Batalkan Jadwal",
+    "confirm_cancel": "Apakah Anda yakin ingin membatalkan sesi terjadwal ini?"
+  },
+  "inactive": {
+    "title": "Sesi Tidak Aktif",
+    "delete_all": "Hapus Semua Tidak Aktif",
+    "reactivate": "Aktifkan Sekarang",
+    "edit_reschedule": "Edit / Jadwal Ulang",
+    "confirm_delete_all": "Apakah Anda yakin ingin menghapus semua sesi tidak aktif?"
+  },
+  "youtube": {
+    "title": "Otomasi YouTube",
+    "status": "Status",
+    "connected": "Terhubung ke",
+    "not_connected": "Tidak Terhubung",
+    "connect": "Hubungkan ke YouTube",
+    "disconnect": "Putuskan Hubungan",
+    "enable_automation": "Aktifkan Otomasi Harian",
+    "schedule_time": "Waktu Jadwal",
+    "title_template": "Template Judul",
+    "description_template": "Template Deskripsi",
+    "video_selection": "Mode Pemilihan Video",
+    "privacy_status": "Status Privasi",
+    "save_config": "Simpan Konfigurasi"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "confirm": "Konfirmasi",
+    "yes": "Ya",
+    "no": "Tidak",
+    "success": "Berhasil",
+    "error": "Error",
+    "manual": "Manual",
+    "scheduled": "Terjadwal",
+    "youtube": "YouTube",
+    "facebook": "Facebook",
+    "onetime": "Sekali",
+    "daily": "Harian",
+    "sequential": "Berurutan",
+    "random": "Acak",
+    "public": "Publik",
+    "private": "Pribadi",
+    "unlisted": "Tidak Terdaftar"
+  }
+}
